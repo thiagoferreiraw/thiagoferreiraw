@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+I'm a software engineer passionate about building a more sustainable and equitable world for all through [WhatsGood](https://sourcewhatsgood.com/), our signature product at Crave.
+
+How to reach me:
+- [Linkedin](https://www.linkedin.com/in/thiago-ferreira-380427a8/)
+- [Twitter](https://twitter.com/tferreiraw) 
+
+Feel free to check out my blog posts at https://medium.com/@tferreiraw ✏️
+
 <!--
 **thiagoferreiraw/thiagoferreiraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

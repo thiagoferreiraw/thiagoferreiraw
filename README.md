@@ -1,11 +1,15 @@
 ### Hi there 👋
 
-
 I'm a software engineer passionate about building a more sustainable and equitable world for all through [WhatsGood](https://sourcewhatsgood.com/), our signature product at Crave.
 
-How to reach me:
-- [Linkedin](https://www.linkedin.com/in/thiago-ferreira-380427a8/)
-- [Twitter](https://twitter.com/tferreiraw) 
+My main skills:
+- Python, Django, Celery (for workers and async processing)
+- Crazy about automated tests and high quality software
+- Rest APIs and workers
+- Relational Databases: PostgreSQL, MySQL, Oracle
+- Non relational databases: ElasticSearch, redis and a some mongodb.
+- Devops: CI/CD, puppet, ansible, terraform, docker
+- Cloud providers: DigitalOcean, aws and gcp.
 
 Feel free to check out my blog posts at https://medium.com/@tferreiraw ✏️
 
@@ -31,3 +35,8 @@ Feel free to check out my blog posts at https://medium.com/@tferreiraw ✏️
 ### Talks
 - 🇧🇷 [[PyBR2021] Desafios do Home Office - Equilíbrio entre vida pessoal e trabalho - Thiago Ferreir](https://www.youtube.com/watch?v=LqlhqkRwamw&t=16s&ab_channel=pythonbrasil)
 - 🇧🇷[Seu app está seguro? Conheça as 10 vulnerabilidades mais comuns da web](https://www.youtube.com/watch?v=FtSQ7OwsNoU)
+
+
+## How to reach me:
+- [Linkedin](https://www.linkedin.com/in/thiago-ferreira-380427a8/)
+- [Twitter](https://twitter.com/tferreiraw) 

@@ -27,7 +27,7 @@ Feel free to check out my blog posts at https://medium.com/@tferreiraw ✏️
 - 🇧🇷 [A importância de usar versões atualizadas de software](https://medium.com/whatsgooddev/a-import%C3%A2ncia-de-usar-vers%C3%B5es-atualizadas-de-software-ef744692a23a)
 - 🇧🇷 [Como atualizar sua branch no git de forma apropriada](https://medium.com/whatsgooddev/como-atualizar-sua-branch-no-git-de-forma-apropriada-ccbc932c3a1c)
 - 🇧🇷 [Algumas formas de evitar o sofrimento autoimposto em tecnologia](https://medium.com/whatsgooddev/algumas-formas-de-evitar-o-sofrimento-autoimposto-em-tecnologia-9bbf0d00492c)
--🇧🇷 [Minhas estruturas de dados favoritas em python: dicionários e conjuntos](https://medium.com/whatsgooddev/minhas-estruturas-de-dados-favoritas-em-python-dicion%C3%A1rios-e-conjuntos-ac08fd273116)
+- 🇧🇷 [Minhas estruturas de dados favoritas em python: dicionários e conjuntos](https://medium.com/whatsgooddev/minhas-estruturas-de-dados-favoritas-em-python-dicion%C3%A1rios-e-conjuntos-ac08fd273116)
 
 
 

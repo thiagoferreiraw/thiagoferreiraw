@@ -38,6 +38,11 @@ Feel free to check out my blog posts at https://medium.com/@tferreiraw ✏️
 - 🇧🇷[Seu app está seguro? Conheça as 10 vulnerabilidades mais comuns da web](https://www.youtube.com/watch?v=FtSQ7OwsNoU)
 
 
+
 ## How to reach me:
 - [Linkedin](https://www.linkedin.com/in/thiago-ferreira-380427a8/)
 - [Twitter](https://twitter.com/tferreiraw) 
+
+
+
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoferreiraw&show_icons=true&count_private=true&include_all_commits=true)

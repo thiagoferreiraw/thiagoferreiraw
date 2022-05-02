@@ -42,6 +42,7 @@ Feel free to check out my blog posts at https://medium.com/@tferreiraw ✏️
 ## How to reach me:
 - [Linkedin](https://www.linkedin.com/in/thiago-ferreira-380427a8/)
 - [Twitter](https://twitter.com/tferreiraw) 
+- [Github](https://github.com/thiagoferreiraw)
 
 
 

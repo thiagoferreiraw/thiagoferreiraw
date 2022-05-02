@@ -40,7 +40,7 @@ Feel free to check out my blog posts at https://medium.com/@tferreiraw ✏️
 
 ## Books I've read and recommend
 
-Available here: https://thiagoferreiraw.github.io/books/
+Available here: [https://thiagoferreiraw.github.io/books/](https://thiagoferreiraw.github.io/books/)
 
 ## How to reach me:
 - [Linkedin](https://www.linkedin.com/in/thiago-ferreira-380427a8/)

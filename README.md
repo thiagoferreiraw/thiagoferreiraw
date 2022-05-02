@@ -38,6 +38,9 @@ Feel free to check out my blog posts at https://medium.com/@tferreiraw ✏️
 - 🇧🇷[Seu app está seguro? Conheça as 10 vulnerabilidades mais comuns da web](https://www.youtube.com/watch?v=FtSQ7OwsNoU)
 - 🇧🇷 [Testes de carga (load tests) com Python e Locust.io](https://www.youtube.com/watch?v=ud3uA8KeHnk&t=17s&ab_channel=GrupyRP)
 
+## Books I've read and recommend
+
+Available here: https://thiagoferreiraw.github.io/books/
 
 ## How to reach me:
 - [Linkedin](https://www.linkedin.com/in/thiago-ferreira-380427a8/)
@@ -45,5 +48,7 @@ Feel free to check out my blog posts at https://medium.com/@tferreiraw ✏️
 - [Github](https://github.com/thiagoferreiraw)
 
 
+
+---
 
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoferreiraw&show_icons=true&count_private=true&include_all_commits=true)

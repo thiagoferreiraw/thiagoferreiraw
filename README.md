@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer passionate about building a more sustainable and equitable world for all through [WhatsGood](https://sourcewhatsgood.com/), our signature product at Crave.
+I'm a software engineer passionate about using my skills to improve people's lives. With several years of experience in the tech industry, I have been focused on building reliable applications with lasting impact across multiple technical areas, but mostly in Backend and DevOps/SRE.
 
 My main skills:
 - Python, Django, Celery (for workers and async processing)

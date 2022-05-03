@@ -11,7 +11,7 @@ My main skills:
 - Devops: CI/CD, puppet, ansible, terraform, docker
 - Cloud providers: DigitalOcean, aws and gcp.
 
-Feel free to check out my blog posts at https://medium.com/@tferreiraw ✏️
+Feel free to check out my blog posts at [https://medium.com/@tferreiraw](https://medium.com/@tferreiraw) ✏️
 
 ### Articles 
 - 🇺🇸 [Automated testing in React](https://medium.com/@tferreiraw/automated-testing-in-react-df9c483f3610)

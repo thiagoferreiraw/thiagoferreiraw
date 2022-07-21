@@ -17,6 +17,7 @@ Feel free to check out my blog posts at [https://medium.com/@tferreiraw](https:/
 - 🇺🇸 [Automated testing in React](https://medium.com/@tferreiraw/automated-testing-in-react-df9c483f3610)
 - 🇺🇸 [Metabase + Django: Practical and Secure Data Visualization](https://medium.com/whatsgooddev/metabase-django-practical-and-secure-data-visualization-f7b4ebcb5e3b)
 - 🇺🇸 [Performing load tests with Python + Locust.io](https://medium.com/@tferreiraw/performing-load-tests-with-python-locust-io-62de7d91eebd)
+- 🇺🇸 [Why is it so important to use up-to-date software versions?](https://medium.com/@tferreiraw/why-is-it-so-important-to-use-up-to-date-software-versions-d69c7628f1ec)
 - 🇧🇷 [Testes automatizados em React](https://medium.com/luizalabs/testes-automatizados-em-react-e431db826d65)
 - 🇧🇷 [Entendendo as funções map, filter e reduce](https://medium.com/luizalabs/entendendo-as-fun%C3%A7%C3%B5es-map-filter-e-reduce-2569888ae084)
 - 🇧🇷 [Automatizando deploy e versionamento de aplicativos ios/android de forma efetiva](https://medium.com/whatsgooddev/automatizando-deploy-e-versionamento-de-aplicativos-ios-android-de-forma-efetiva-eff4e73a6602)

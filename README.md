@@ -40,6 +40,7 @@ Feel free to check out my blog posts at [https://medium.com/@tferreiraw](https:/
 - 🇧🇷 [[PyBR2021] Desafios do Home Office - Equilíbrio entre vida pessoal e trabalho - Thiago Ferreir](https://www.youtube.com/watch?v=LqlhqkRwamw&t=16s&ab_channel=pythonbrasil)
 - 🇧🇷[Seu app está seguro? Conheça as 10 vulnerabilidades mais comuns da web](https://www.youtube.com/watch?v=FtSQ7OwsNoU)
 - 🇧🇷 [Testes de carga (load tests) com Python e Locust.io](https://www.youtube.com/watch?v=ud3uA8KeHnk&t=17s&ab_channel=GrupyRP)
+- 🇧🇷 [Queries performáticas com ORM em Python, Django e Postgres - Thiago Ferreia PyBR2022](https://www.youtube.com/watch?v=rsKxYWF1by4&t=5s&ab_channel=pythonbrasil)
 
 ## Books I've read and recommend
 

@@ -19,8 +19,8 @@ Feel free to check out my blog posts at [https://medium.com/@tferreiraw](https:/
 - 🇺🇸 [Performing load tests with Python + Locust.io](https://medium.com/@tferreiraw/performing-load-tests-with-python-locust-io-62de7d91eebd) (2022)
 - 🇺🇸 [Why is it so important to use up-to-date software versions?](https://medium.com/@tferreiraw/why-is-it-so-important-to-use-up-to-date-software-versions-d69c7628f1ec) (2022)
 - 🇺🇸 [Make it easier for people to help you](https://medium.com/@tferreiraw/make-it-easier-for-people-to-help-you-d775358e7482) (2022)
-- 🇺🇸 [Keeping sane when handling timezones — a quickstart guide with python
-](https://medium.com/@tferreiraw/keeping-sane-when-handling-timezones-a-quickstart-guide-with-python-970468591da) (2022)
+- 🇺🇸 [Keeping sane when handling timezones — a quickstart guide with python](https://medium.com/@tferreiraw/keeping-sane-when-handling-timezones-a-quickstart-guide-with-python-970468591da) (2022)
+- 🇺🇸 [Don’t leave traps in your codebase](https://medium.com/@tferreiraw/dont-leave-traps-in-your-codebase-62bd1840745f) (2023)
 - 🇧🇷 [Testes automatizados em React](https://medium.com/luizalabs/testes-automatizados-em-react-e431db826d65) (2018)
 - 🇧🇷 [Entendendo as funções map, filter e reduce](https://medium.com/luizalabs/entendendo-as-fun%C3%A7%C3%B5es-map-filter-e-reduce-2569888ae084) (2018)
 - 🇧🇷 [Automatizando deploy e versionamento de aplicativos ios/android de forma efetiva](https://medium.com/whatsgooddev/automatizando-deploy-e-versionamento-de-aplicativos-ios-android-de-forma-efetiva-eff4e73a6602) (2021)

@@ -46,7 +46,7 @@ Feel free to check out my blog posts at [https://medium.com/@tferreiraw](https:/
 - 🇧🇷 [Queries performáticas com ORM em Python, Django e Postgres - Thiago Ferreia PyBR2022](https://youtu.be/rsKxYWF1by4?t=47) (2022)
 - - Alternative recording: https://youtu.be/RsiPnRE1U_0?t=510
 
-## Books I've read and recommend
+## My book recommendations 📚
 
 Available here: [https://thiagoferreiraw.github.io/books/](https://thiagoferreiraw.github.io/books/)
 

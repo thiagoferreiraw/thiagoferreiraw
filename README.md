@@ -22,6 +22,7 @@ Feel free to check out my blog posts at [https://medium.com/@tferreiraw](https:/
 - 🇺🇸 [Keeping sane when handling timezones — a quickstart guide with python](https://medium.com/@tferreiraw/keeping-sane-when-handling-timezones-a-quickstart-guide-with-python-970468591da) (2022)
 - 🇺🇸 [Don’t leave traps in your codebase](https://medium.com/@tferreiraw/dont-leave-traps-in-your-codebase-62bd1840745f) (2023)
 - 🇺🇸 [Resilience and Simplicity: The Overlapping Philosophies of SRE and Stoicism](https://medium.com/@tferreiraw/resilience-and-simplicity-the-overlapping-philosophies-of-sre-and-stoicism-a927544fb106) (2023)
+- 🇺🇸 [Reverting git commits: 2 simple ways](https://medium.com/@tferreiraw/reverting-git-commits-2-simple-ways-e9374481a10b) (2023)
 - 🇧🇷 [Testes automatizados em React](https://medium.com/luizalabs/testes-automatizados-em-react-e431db826d65) (2018)
 - 🇧🇷 [Entendendo as funções map, filter e reduce](https://medium.com/luizalabs/entendendo-as-fun%C3%A7%C3%B5es-map-filter-e-reduce-2569888ae084) (2018)
 - 🇧🇷 [Automatizando deploy e versionamento de aplicativos ios/android de forma efetiva](https://medium.com/whatsgooddev/automatizando-deploy-e-versionamento-de-aplicativos-ios-android-de-forma-efetiva-eff4e73a6602) (2021)

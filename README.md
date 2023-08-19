@@ -2,7 +2,7 @@
 
 I'm a software engineer passionate about using my skills to improve people's lives. With several years of experience in the tech industry, I have been focused on building reliable applications with lasting impact across multiple technical areas, but mostly in Backend and DevOps/SRE.
 
-My main skills:
+What I do best:
 - Python, Django, Celery (for workers and async processing)
 - Crazy about automated tests and high quality software
 - Rest APIs and workers
@@ -51,7 +51,7 @@ Feel free to check out my blog posts at [https://medium.com/@tferreiraw](https:/
 
 Available here: [https://thiagoferreiraw.github.io/books/](https://thiagoferreiraw.github.io/books/)
 
-## How to reach me:
+## Reach out 👋:
 - [Linkedin](https://www.linkedin.com/in/thiago-ferreira-380427a8/)
 - [Twitter](https://twitter.com/tferreiraw) 
 - [Github](https://github.com/thiagoferreiraw)
